@@ -7,3 +7,4 @@ plotly==5.13.0
 selenium==4.8.0
 streamlit==1.17.0
 webdriver_manager==3.8.5
+streamlit-folium==0.18.0
