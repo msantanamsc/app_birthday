@@ -149,7 +149,7 @@ else:
     sidebar.error("Incorrecto")
 
 if codigo_usuario == codigo and nombre_usuario == nombre and genero_usuario == genero:
-    sidebar.success("¡Has resuelto los 3 enigmas! Felicidades. Ahora puedes recibir tu regalo, ¿sabes ya que es?.")
+    sidebar.success("¡Has resuelto los 3 enigmas! Felicidades. Ahora puedes recibir tu regalo, ¿sabes ya que es?")
 
 # Show map in streamlit
 #st.write(m)
